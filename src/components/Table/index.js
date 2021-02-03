@@ -22,7 +22,7 @@ function Table(){
                 </tr>
                 <tr>
                     <td><p></p></td>
-                    <td className="cyan"><p></p>Intro ECA</td>
+                    <td><p></p></td>
                     <td><p></p></td>
                     <td><p></p></td>
                     <td><p></p></td>
@@ -30,24 +30,24 @@ function Table(){
 
                 <tr>
                     <td><p></p></td>
+                    <td className="cyan"><p>Intro ECA</p></td>
+                    <td><p></p></td>
+                    <td><p></p></td>
+                    <td><p></p></td>
+                </tr>
+                <tr>
+                    <td><p></p></td>
                     <td><p></p></td>
                     <td><p></p></td>
                     <td><p></p></td>
                     <td><p></p></td>
                 </tr>
                 <tr>
-                    <td><p></p></td>
-                    <td><p></p></td>
-                    <td><p></p></td>
-                    <td><p></p></td>
-                    <td><p></p></td>
-                </tr>
-                <tr>
-                    <td className="pink"><p>ALG PROD</p></td>
+                    <td className="pink"><p>ALG PROG</p></td>
                     <td className="yellow"><p>Quimica EE</p></td>
-                    <td className="pink"><p>ALG PROD</p></td>
+                    <td className="pink"><p>ALG PROG</p></td>
                     <td className="yellow"><p>Quimica EE</p></td>
-                    <td className="pink"><p>ALG PROD</p></td>
+                    <td className="pink"><p>ALG PROG</p></td>
                 </tr>
                 <tr>
                     <td><p></p></td>
