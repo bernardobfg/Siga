@@ -51,3 +51,9 @@
 .user-icon{
     margin-right: 5px;
 }
+
+@media(max-width:700px){
+    .header-sup{
+        width: 100%;
+    }
+}

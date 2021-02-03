@@ -1,16 +1,18 @@
 import React from 'react';
 import "./styles.css"
+import Hamburger from "../../assets/square.png"
 
 function Menu(){
     return(
+        <>
         <div className="menu">
-            <ul className="menu-lista">
+        <ul className="menu-lista" id="menu-lista">
                 <li>
                     <a>Documentos</a>
                 </li>
 
                 <li>
-                    <a  className="active">Inscrição em disciplinas</a>
+                    <a>Inscrição em disciplinas</a>
                 </li>
 
                 <li>
@@ -33,7 +35,11 @@ function Menu(){
                     <a>Ajuda</a>
                 </li>
             </ul>
+
+            <button className="abrir" onClick="abrir()"><img src={Hamburger}/></button>
         </div>
+       
+        </>
     )
 }
 

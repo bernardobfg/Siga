@@ -1,0 +1,21 @@
+.subjects-list li{
+    width: 350px;
+    padding: 7px;
+}
+
+
+.subjects-list li p{
+    font-size: 0.8em;
+    padding-left: 0;
+}
+
+.subjects-list li small{
+    font-size: 0.7em;
+}
+
+@media(max-width: 700px){
+    .subjects-list li{
+        width: 310px;
+    }    
+
+}
