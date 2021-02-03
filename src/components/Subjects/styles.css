@@ -1,3 +1,5 @@
+
+
 .subjects ul{
     list-style: none;
 }
@@ -7,6 +9,7 @@
     padding: 7px;
 }
 
+
 .subjects ul li p{
     font-size: 0.8em;
     padding-left: 0;
@@ -14,4 +17,16 @@
 
 .subjects ul li small{
     font-size: 0.7em;
+}
+
+@media(max-width: 700px){
+    .subjects{
+        margin-left: 48px;
+        margin-top: 30px;
+    }
+
+
+    .subjects li{
+        width: 310px;
+    }
 }

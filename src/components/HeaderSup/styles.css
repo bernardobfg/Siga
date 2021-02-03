@@ -11,11 +11,12 @@
 }
 
 .header-sup h1{
-    position: relative;
+    margin-top: 58px;
+    margin-left: 180px;
     font-weight: bold;
-    top: 55px;
-    left: 160px;
+    min-width: 183px;
     color: #666666;
+    white-space: nowrap;
     font-size: 2em;
 }
 
@@ -35,6 +36,10 @@
     margin: auto 0;
     margin-bottom: 20px;
     display: flex;
+}
+
+.user h4{
+    white-space: nowrap;
 }
 
 

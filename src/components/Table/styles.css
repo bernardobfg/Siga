@@ -1,6 +1,7 @@
 .div-table{
     display: flex;
-    color: #666666
+    color: #666666;
+    min-width: 385px;
 }
 
 .time{
@@ -10,6 +11,15 @@
     justify-content: space-between;
     height: 300px;
     margin-right: 10px;
+    margin-left: 5%;
+}
+
+@media (max-width: 700px){
+    .time{
+        margin-left: 0;
+    }
+    
+
 }
 
 table{
