@@ -1,0 +1,12 @@
+.container{
+    width: 100%;
+    
+}
+
+.table_subjects{
+    display: flex;
+    margin: 30px auto;
+    width: 70%;
+    justify-content: space-between;
+}
+

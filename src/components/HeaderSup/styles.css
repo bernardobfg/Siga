@@ -1,0 +1,48 @@
+.header-sup{
+    width: 70%;
+    margin: 0 auto;
+    background: url('../../assets/minerva-perfil.png') 0 0 no-repeat;
+    display: flex;
+    justify-content: space-between;
+    
+    
+    
+   
+}
+
+.header-sup h1{
+    position: relative;
+    font-weight: bold;
+    top: 55px;
+    left: 160px;
+    color: #666666;
+    font-size: 2em;
+}
+
+.username{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-top: 20px;
+    color: #666666;
+}
+
+.username p{
+    font-size: 0.9em;
+}
+
+.user{
+    margin: auto 0;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+
+.user .image-user{
+    margin-left: 20px;
+    margin-right: 50px;
+}
+
+.user-icon{
+    margin-right: 5px;
+}

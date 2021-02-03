@@ -1,0 +1,10 @@
+.title-div{
+    width: 70%;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    border-bottom: 1px solid #333333;
+    justify-content: flex-end;
+    font-size: 0.8em;
+    color: #666666;
+}

@@ -1,0 +1,38 @@
+.data{
+    height: 105px;
+    width: 70%;
+    min-width: 600px;
+    margin: 0 auto;
+    margin-top: 30px;
+    background-color:#f2f2f2;
+}
+
+.info{
+    padding: 10px 7px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid black;
+}
+
+.data p{
+    font-size: 0.9em;
+}
+
+
+
+.right{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: flex-end;
+}
+
+
+.credits{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 8px;
+    padding-top: 4px;
+    
+}
